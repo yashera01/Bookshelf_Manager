@@ -1,0 +1,9 @@
+to run file
+open terminal
+>cd backend
+npm run dev
+then it will start localhost on 5555
+open other terminal
+>cd frontend
+npm run dev
+then it will start loaclhost on 5173
